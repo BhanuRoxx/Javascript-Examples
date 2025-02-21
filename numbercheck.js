@@ -1,3 +1,4 @@
+//Check if a number is positive,negativeo or Zero in javascript.
 function number1(num){
   if(num<0)
     return `number is negative`

@@ -1,3 +1,4 @@
+//check if a number is odd or even in javascript.
 function number1(num){
 if(num%2==0)
   return `The number is even`

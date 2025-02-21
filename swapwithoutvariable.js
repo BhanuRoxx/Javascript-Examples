@@ -1,3 +1,4 @@
+//swap two numbers without using third variable.
 let a=10;
 let b=20;
 console.log(`Before swapping a=${a} and b=${b}`);

@@ -1,3 +1,4 @@
+// This code shows the how to check prime numbers in javascript
 checkprimenum=(number)=>{
  let isprime=true
 

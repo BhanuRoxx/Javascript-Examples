@@ -1,3 +1,5 @@
+ //how to generate Random number by using javascript.
+
 function number(){
   return Math.ceil (Math.random()*10);
   }

@@ -1,3 +1,5 @@
+//This code shows the how to add two numbers in javascript.
+
 function number(num1,num2){
   return num1+num2;
 }

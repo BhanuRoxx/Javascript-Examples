@@ -1,3 +1,4 @@
+// find the smallest number among 3 numbers in javascript.
 smallnum =(num1,num2,num3) =>{
   if(num1<=num2&&num1<=num3)
     return `${num1} is the smallest number`

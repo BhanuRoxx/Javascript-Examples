@@ -1,4 +1,4 @@
-//  Find square Root of a number im Javascript
+//  Find square Root of a number in Javascript
 function squareroot(number){
   return Math.sqrt(number);
 }
